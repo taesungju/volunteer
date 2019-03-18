@@ -1,0 +1,36 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1552911961228">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3824176616" ref="index"/>
+    <file name="apply.css" crc="348957051" ref="apply"/>
+    <file name="activities.css" crc="102211984" ref="activities"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:activities:apply"/>
+    <file name="museutils.js" crc="183364071" ref="index:activities:apply"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:activities:apply"/>
+    <file name="pie.js" crc="3827607177" ref="apply"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="apply"/>
+    <file name="webpro.js" crc="3803554875" ref="apply"/>
+    <file name="form_check.php" crc="277267350" ref="apply"/>
+    <file name="form_throttle.php" crc="3908387251" ref="apply"/>
+    <file name="form_process.php" crc="24249335" ref="apply"/>
+    <file name="form-u577.php" crc="3982576851" ref="apply"/>
+  </folder>
+  <folder name="images">
+    <file name="happyteachers.jpg" crc="4006434000" seo="true" ref="activities"/>
+    <file name="checkboxunchecked.jpg" crc="3783961257" ref="apply"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="apply"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="apply"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="apply"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="apply"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="apply"/>
+    <file name="u593-17.png" crc="3776946163" ref="apply"/>
+    <file name="u593-17-r.png" crc="445018116" ref="apply"/>
+    <file name="u593-17-m.png" crc="4123371620" ref="apply"/>
+    <file name="u593-17-fs.png" crc="228079653" ref="apply"/>
+  </folder>
+  <file name="index.html" crc="4264900553" seo="true" mt="1552911488610" redirect="true"/>
+  <file name="activities.html" crc="3791478729" seo="true" mt="1552911488603" redirect="true"/>
+  <file name="apply.html" crc="3929594249" seo="true" mt="1552911949082" redirect="true"/>
+</manifest>
