@@ -1,7 +1,7 @@
 .version.activities /* version checker */
 {
-	color: #000006;
-	background-color: #17A190;
+	color: #0000ED;
+	background-color: #2E39F2;
 }
 
 .html
@@ -36,9 +36,9 @@
 	width: 1160px;
 	min-height: 98px;
 	background-color: #736357;
-	line-height: 96px;
 	font-size: 48px;
 	text-align: center;
+	line-height: 96px;
 	font-family: Times, Times New Roman, Georgia, serif;
 	left: -100px;
 	position: relative;
@@ -78,9 +78,9 @@
 	width: 264px;
 	min-height: 57px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #1B1464;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: bold;
 	margin-top: 64px;
@@ -115,9 +115,9 @@
 	width: 264px;
 	min-height: 57px;
 	background-color: transparent;
-	line-height: 43px;
 	color: #000000;
 	font-size: 36px;
+	line-height: 43px;
 	font-family: Times, Times New Roman, Georgia, serif;
 	font-weight: normal;
 	margin-top: 70px;
